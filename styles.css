@@ -1,0 +1,62 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #f06, #4a90e2);
+    color: white;
+  }
+  
+  /* Container for centering elements */
+  .container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2);
+    width: 300px;
+  }
+  
+  /* Styling the header */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #ffffff;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6);
+  }
+  
+  /* Input field styling */
+  .url-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    color: #333;
+  }
+  
+  /* Button styling */
+  .convert-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #4a90e2;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .convert-btn:hover {
+    background-color: #357ABD;
+  }
+  
