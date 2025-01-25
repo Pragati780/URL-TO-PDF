@@ -37,7 +37,6 @@ A Chrome extension to convert webpage content into a downloadable PDF using the 
 
 ---
 
-Use the Extension
 The extension listens for specific messages and performs actions when triggered (in this case, generating PDFs). Once installed, you can trigger the PDF generation by sending a message to the extension with the URL of the page you want to convert to a PDF.
 
 
