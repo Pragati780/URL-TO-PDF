@@ -1,7 +1,6 @@
 # URL-TO-PDF
 
 Here's a sample README.md file for your Chrome extension project that uses jsPDF and a build process with npm.
-Here’s a revised version of the `README.md` in a bullet-point format for clarity:
 
 ---
 
@@ -38,8 +37,6 @@ A Chrome extension to convert webpage content into a downloadable PDF using the 
 
 ---
 
-This version keeps the information concise and formatted with bullet points for easy reading. Let me know if you'd like further adjustments!
-Select the folder containing the bundled files (dist folder). This adds your extension to Chrome, making it available for testing.
 Use the Extension
 The extension listens for specific messages and performs actions when triggered (in this case, generating PDFs). Once installed, you can trigger the PDF generation by sending a message to the extension with the URL of the page you want to convert to a PDF.
 
